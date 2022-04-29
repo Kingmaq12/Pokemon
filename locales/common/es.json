@@ -1,0 +1,25 @@
+{
+    "name": "Pokemon ¡Atrapalos a todos!",
+    "table": {
+        "no-result": "No hay resultado"
+    },
+    "pokemon": {
+        "id": "Id",
+        "name": "Nombre",
+        "baseExperience": "Experiencia Base",
+        "height": "Altura",
+        "order": "Orden",
+        "weight": "Peso",
+        "frontDefault": "Imagen Frontal",
+        "types": "Tipo"
+    },
+    "type": {
+        "grass": "Hoja",
+        "poison": "Veneno",
+        "fire": "Fuego",
+        "flying": "Volador",
+        "water": "Agua",
+        "bug": "Insecto",
+        "normal": "Normal"
+    }
+}

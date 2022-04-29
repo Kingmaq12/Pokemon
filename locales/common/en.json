@@ -1,0 +1,25 @@
+{
+    "name": "Pokemon ¡Gotta catch em All!",
+    "table": {
+        "no-result": "No hay resultado"
+    },
+    "pokemon": {
+        "id": "Id",
+        "name": "Name",
+        "baseExperience": "Base Experience",
+        "height": "Height",
+        "order": "Order",
+        "weight": "Weight",
+        "frontDefault": "Front View",
+        "types": "Types"
+    },
+    "type": {
+        "grass": "Grass",
+        "poison": "Poison",
+        "fire": "Fire",
+        "flying": "Flying",
+        "water": "Water",
+        "bug": "Bug",
+        "normal": "Normal"
+    }
+}

@@ -1,0 +1,23 @@
+.action-btn {
+    background-color: gray;
+    color: cornflowerblue;
+    border-radius: 1rem;
+
+    &_floating {
+        border-radius: 48%;
+    }
+
+    &:hover {
+        background-color: black;
+    }
+}
+
+.separator {
+    height: 17px;
+    border-right: 2px solid #e0dee2;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-right: 8px !important;
+    margin-left: 8px !important;
+    line-height: 24px;
+}
